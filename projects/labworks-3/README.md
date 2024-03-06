@@ -19,7 +19,8 @@ C#. Архитектура. Паттерны. Лабы.
 ### Реализация:  
 
 ***тык на ссылку***  
-[Реализация 6 лабораторной](https://github.com/daniilboyarinkov/labworks-3-semester/tree/6-decorator-strategy-patterns)
+
+[//]: # ([Реализация 6 лабораторной]&#40;https://github.com/daniilboyarinkov/labworks-3-semester/tree/6-decorator-strategy-patterns&#41;)
 
 ### Картиночки:
 
@@ -41,7 +42,8 @@ C#. Архитектура. Паттерны. Лабы.
 ### Реализация:  
 
 ***тык на ссылку***  
-[Реализация 5 лабораторной](https://github.com/daniilboyarinkov/labworks-3-semester/tree/5-mvvm-pattern)
+
+[//]: # ([Реализация 5 лабораторной]&#40;https://github.com/daniilboyarinkov/labworks-3-semester/tree/5-mvvm-pattern&#41;)
 
 ### Картиночки:
 
@@ -63,7 +65,8 @@ C#. Архитектура. Паттерны. Лабы.
 ### Реализация:  
 
 ***тык на ссылку***  
-[Реализация 4 лабораторной](https://github.com/daniilboyarinkov/labworks-3-semester/tree/4-mvp-pattern-realisation)
+
+[//]: # ([Реализация 4 лабораторной]&#40;https://github.com/daniilboyarinkov/labworks-3-semester/tree/4-mvp-pattern-realisation&#41;)
 
 ### Картиночки:
 
@@ -89,7 +92,8 @@ C#. Архитектура. Паттерны. Лабы.
 ### Реализация:
 
 ***тык на ссылку***  
-[Реализация 3 лабораторной](https://github.com/daniilboyarinkov/labworks-3-semester/tree/3-labwork)
+
+[//]: # ([Реализация 3 лабораторной]&#40;https://github.com/daniilboyarinkov/labworks-3-semester/tree/3-labwork&#41;)
 
 ### Картиночки:
 
@@ -118,7 +122,8 @@ C#. Архитектура. Паттерны. Лабы.
 ### Реализация:
 
 ***тык на ссылку***  
-[Реализация 2 лабораторной](https://github.com/daniilboyarinkov/labworks-3-semester/tree/2-mvp-database)
+
+[//]: # ([Реализация 2 лабораторной]&#40;https://github.com/daniilboyarinkov/labworks-3-semester/tree/2-mvp-database&#41;)
 
 *Картиночек не завезли(*
 
@@ -142,7 +147,8 @@ C#. Архитектура. Паттерны. Лабы.
 ### Реализация:
 
 ***тык на ссылку***  
-[Реализация 1 лабораторной](https://github.com/daniilboyarinkov/labworks-3-semester/tree/1-mvp-pattern)
+
+[//]: # ([Реализация 1 лабораторной]&#40;https://github.com/daniilboyarinkov/labworks-3-semester/tree/1-mvp-pattern&#41;)
 
 ### Картиночки:
 
