@@ -1,0 +1,3 @@
+[submodule "projects/labworks-unity"]
+	path = projects/labworks-unity
+	url = https://github.com/daniilboyarinkov/university-unity-learn-sample.git
